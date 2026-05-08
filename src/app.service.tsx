@@ -9,7 +9,7 @@ export class AppService {
     </head> <body> <div class="bg"></div>  <div class="content"> <h1 id="home" 
         style="text-align: center;font-weight: bold;text-decoration: underline;">
             WELCOME TO JAVASCRIPT APPLICATIONS!!</h1> 
-   <h3 style="text-align:center;"> Click on any of the below JavaScript apps!</h3>
+   <h3 style="text-align:center;"> Click on any of the below JavaScript apps!!!</h3>
    <div class="parent"> <ul>
         <li><a href='/calculator'>Calculator</a></li> 
        <li><a href='/maze'>Maze</a></li>
